@@ -97,7 +97,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Mention any libraries, datasets, or resources you used or were inspired by.
 
-
+## Requirements
 ```requirment.txt
 tensorflow==2.7.0
 keras==2.6.0
