@@ -22,7 +22,7 @@ Plant disease recognition is crucial for early detection and intervention, enabl
 - Python 3.x
 - TensorFlow
 - Keras
-- Other dependencies (specified in `requirements.txt`)
+- Other dependencies (specified in `requirements below`)
 
 ### Installation
 
@@ -96,3 +96,20 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Mention any libraries, datasets, or resources you used or were inspired by.
+
+
+```requirment.txt
+tensorflow==2.7.0
+keras==2.6.0
+numpy==1.21.2
+matplotlib==3.4.3
+scikit-learn==0.24.2
+```
+
+This list includes TensorFlow and Keras for deep learning, NumPy for numerical operations, Matplotlib for plotting, and scikit-learn for additional machine learning utilities.
+
+Remember to adjust the versions based on your preferences or the compatibility of the libraries you are using. You can install these dependencies by running:
+
+```bash
+pip install -r requirements.txt
+```
