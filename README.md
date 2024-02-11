@@ -93,9 +93,7 @@ Plant disease recognition is crucial for early detection and intervention, enabl
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-- Mention any libraries, datasets, or resources you used or were inspired by.
 
 ## Requirements
 ```requirment.txt
